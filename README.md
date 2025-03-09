@@ -10,6 +10,8 @@
     React, Redux
     Responsive Design (Bootstrap, TailwindCSS)
     Version Control (Git, GitHub)
+    Java
+    Spring-Boot
 
 💡 I’m constantly learning, evolving, and sharing knowledge with the community. Let’s build something great together!
 
